@@ -1,7 +1,7 @@
 body {
     font-size: 16px;
-    
 
+            /*TODO no blank spaces*/
 }
 .container {
     margin-bottom: 150px;
@@ -13,30 +13,30 @@ body {
     background-size: cover;
 }
 .cv {
-    /* margin: 50px; */
-    border: 1 px solid hsla(218, 95%, 40%, 0.461);
-    border-style: solid;  
-    border-width: 3px; 
+    /* margin: 50px; TODO no commented strings*/
+    border: 1px solid hsla(218, 95%, 40%, 0.461);
+    border-style: solid;
+    border-width: 3px;
     box-shadow: 1px 1px 10px black;
 }
 
 .cv-left {
-    /* background: #333366; */
+    /* background: #333366; TODO no commented strings */
     background: #1f456e;
-    /* min-height: 30vh; */
+    /* min-height: 30vh; TODO no commented strings */
     color: #fff;
     text-align: center;
-    border-style: solid;  
+    border-style: solid;
     border-width: 3px;
-    border-color: black; 
-    /* padding:0; */
-    
+    border-color: black;
+    /* padding:0;  TODO no commented strings*/
+
 }
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 26px;
     padding: 0px;
-    word-break: normal;  
+    word-break: normal;
 }
 
 .cv-right {
@@ -44,20 +44,20 @@ p {
     min-height: 30vh;
     color: black;
     padding:0;
-    border-style: solid;  
-    border-width: 5px; 
+    border-style: solid;
+    border-width: 5px;
 
 }
 
 .name {
     text-align: center;
-    /* position: absolute; */
+    /* position: absolute; TODO no commented strings*/
     color: white;
     font-size: 32px;
     background-color: rgb(37, 32, 55);
     padding:0;
     border-width: 5px;
-    border-color: #fff;   
+    border-color: #fff;
 }
     h2 {
     text-align: left;
@@ -67,20 +67,20 @@ p {
     border-width: 2px;
     font-size: 36px;
     background-color: white;
-    /* padding:0; */
+    /* padding:0; TODO no commented strings*/
     border-width: 5px;
-    /* border-color: #fff; */
+    /* border-color: #fff; TODO no commented strings*/
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
 
     }
- 
+
 
 .cv-left a {
     color:white;
     position:absolute;
-    border-style: solid;  
-    border-width: 5px; 
+    border-style: solid;
+    border-width: 5px;
 
 }
 
@@ -110,7 +110,7 @@ p {
 
 .software-skills {
     text-align: center;
-    /* position: absolute; */
+    /* position: absolute; TODO no commented strings*/
     color: white;
     font-size: 32px;
     background-color: rgb(37, 32, 55);
@@ -121,8 +121,9 @@ p {
     color: black;
     background-color: white;
     font-size: 32px;
-    
-} */
+
+}   TODO no commented strings
+    TODO no blank spaces*/
 
 /* p {
     padding:0;
@@ -137,7 +138,7 @@ a {
     color: blue;
 }
 
-.lol {
+.lol { /* TODO strange name of css */
     text-align: center;
     /* position: absolute; */
     color: white;
@@ -157,7 +158,7 @@ h3 {
     padding:0;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-
+    /* TODO */
 }
 
 h4 {
@@ -173,8 +174,8 @@ h4 {
     color:gold;
     font-size: 18px;
     margin:20px;
-    font-optical-sizing: 2em;
-   
+    font-optical-sizing: 2em; /* TODO why error? */
+
     }
 
 .person, .languages, .software, .contact-block {
@@ -183,7 +184,7 @@ h4 {
     word-break: break-all;
 }
 
-#Myname {
+#Myname { /* TODO name of class? */
     font-size: 30px;
 }
 
@@ -222,25 +223,25 @@ h4 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
   }
-  
+
   .navli {
     float: left;
-      /* border-right: 1px solid blue; */
+      /* border-right: 1px solid blue; TODO blank*/
       text-align: center;
       font-size: 24px;
-      /* position: absolute; */
+      /* position: absolute; TODO blank*/
   }
-  
+
   li a {
     display: block;
     color: white;
-   /* font-size:20px; */
+   /* font-size:20px; TODO blank*/
     text-align: center;
     padding: 10px 20px;
     text-decoration: none;
     text-align: left;
     font-size: 24px;
-    
+
   }
   .active{
   background-color: gray;
@@ -250,5 +251,5 @@ h4 {
     background-color: gold;
     color: white;
   }
-  
-  
+
+
